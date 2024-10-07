@@ -1,0 +1,1 @@
+# A-Multi-Modal-Deep-Learning-Model-for-Fake-News-Detection
